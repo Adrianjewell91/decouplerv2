@@ -49,7 +49,7 @@ Rather than manually rewriting each query, the system uses a language model to g
 
 ## Example Implementation
 
-The `java2` directory contains a reference implementation backed by JDBC and a local LLM:
+The `impl` directory contains a reference implementation backed by JDBC and a local LLM:
 
 - **`SqlMonolith`** — executes arbitrary SQL against a JDBC `DataSource`
 - **`SqlTableFragment`** — wraps a single database table; introspects its schema at init time
