@@ -2,7 +2,8 @@
 
 A framework for migrating away from a monolith one transaction at a time, without downtime. Each transaction type is decoupled independently — there is no global cut-over, no big-bang migration, and no service interruption.
 
-<img width="1977" height="839" alt="Screenshot 2026-05-06 at 11 48 01 AM" src="https://github.com/user-attachments/assets/024b32fb-363f-408c-a68d-5265a1fcd2df" />
+<img width="2031" height="853" alt="Screenshot 2026-05-07 at 1 17 46 PM" src="https://github.com/user-attachments/assets/35c36985-61d5-4c65-9803-35e5099a934e" />
+
 
 
 ---
